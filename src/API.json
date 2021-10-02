@@ -1,0 +1,32 @@
+{
+  "air-jordan-3-valor-blue": {
+    "name": "VALOUR BLUE",
+    "img":
+      "https://secure-images.nike.com/is/image/DotCom/CT8532_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+  },
+  "jordan-mars-270-london": {
+    "name": "JORDAN MARS 270 LONDON",
+    "img":
+      "https://secure-images.nike.com/is/image/DotCom/CV3042_001_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+  },
+  "air-jordan-1-zoom-racer-blue": {
+    "name": "RACER BLUE",
+    "img":
+      "https://secure-images.nike.com/is/image/DotCom/CK6637_104_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+  },
+  "air-jordan-4-retro": {
+    "name": "AIR JORDAN 4 Retro OG 'Bred'",
+    "img":
+      "https://secure-images.nike.com/is/image/DotCom/308497_060_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+  },
+  "jordan-delta-men's": {
+    "name": "Jordan Delta",
+    "img":
+      "https://secure-images.nike.com/is/image/DotCom/DB5768_007_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+  },
+  "air-jordan-6-retro": {
+    "name": "Air Jordan 6 Retro",
+    "img":
+      "https://secure-images.nike.com/is/image/DotCom/CT5350_401_A_PREM?$SNKRS_COVER_WD$&align=0,1"
+  }
+}
